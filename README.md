@@ -12,7 +12,7 @@
 | William Hatfield               | hatwill@seas.upenn.edu |
 | Krishna Karthikeya Chemudupati | krishkc@seas.upenn.edu |
 
-**GitHub Repository URL:** https://github.com/upenn-embedded/final-project-website-submission-f25-t02-f25-schrodingers_firmware
+**GitHub Repository URL:** [https://github.com/upenn-embedded/final-project-website-submission-f25-t02-f25-schrodingers_firmware](https://github.com/upenn-embedded/final-project-website-submission-f25-t02-f25-schrodingers_firmware)
 
 **GitHub Pages Website URL:** [Link to project website](https://upenn-embedded.github.io/final-project-website-submission-f25-t02-f25-schrodingers_firmware/)
 
