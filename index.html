@@ -116,10 +116,7 @@
 
             <div class="video-container">
                 <h3>Brake Detection Demo (1)</h3>
-                <video controls width="100%" style="max-width: 800px;">
-                    <source src="site_media/demo_video.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
+                <iframe src="https://drive.google.com/file/d/1aWUv-BG_4Lx_GbtuUPkUKBLIBOMxESUS/preview" width="100%" height="600" allow="autoplay" style="border:none; border-radius: 12px;"></iframe>
                 <p class="video-description">
                     This video demonstrates the brake light functionality (SRS-02) and smooth fade-out effect (SRS-06).
                     Watch as the LED instantly brightens to 100% when braking is detected, then gradually fades back
@@ -129,10 +126,7 @@
 
             <div class="video-container" style="margin-top: 2rem;">
                 <h3>Ambient Light Adjustment Demo (2)</h3>
-                <video controls width="100%" style="max-width: 800px;">
-                    <source src="site_media/demo_video_2.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
+                <iframe src="https://drive.google.com/file/d/1qLbxR7qmvJ09MbYZhXzqyjjUcr4hGURB/preview" width="100%" height="600" allow="autoplay" style="border:none; border-radius: 12px;"></iframe>
                 <p class="video-description">
                     This video demonstrates the ambient light control feature (SRS-03). The LED automatically adjusts
                     its base brightness (night/dark conditions) to (daylight/bright conditions) based on
@@ -178,9 +172,9 @@
                     <h4>SRS-02: Brake Detection</h4>
                     <div class="requirement-content">
                         <div class="requirement-text">
-                            <p><strong>Requirement:</strong> If the IMU detects a drop in acceleration greater than -0.5 g (indicating braking) for more than 30 milliseconds, the firmware will switch the LED to 100% brightness. The reaction delay must be less than 100 milliseconds.</p>
+                            <p><strong>Requirement:</strong> If the IMU detects a drop in acceleration greater than -0.5 g (indicating braking) for more than 80 milliseconds, the firmware will switch the LED to 100% brightness. The reaction delay must be less than 100 milliseconds.</p>
                             <p><strong>Test Method:</strong> Visual demonstration of brake light activation during braking events.</p>
-                            <p><strong>Validation:</strong> ✅ PASSED (with threshold adjustment) - Demo video shows LED instantly brightening to 100% when braking is detected, with reaction time well under 100ms threshold. After testing, the threshold was adjusted to -0.2g for 30 ms.</p>
+                            <p><strong>Validation:</strong> ✅ PASSED (with threshold adjustment) - Demo video shows LED instantly brightening to 100% when braking is detected, with reaction time well under 100ms threshold. After testing, the threshold was adjusted to -0.5g for 30 ms.</p>
                         </div>
                     </div>
                 </div>
