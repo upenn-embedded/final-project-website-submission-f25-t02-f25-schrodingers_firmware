@@ -238,7 +238,7 @@ We may need advice on materials or fabrication methods for creating a strong and
 Don't forget to make the GitHub pages public website!
 If you’ve never made a GitHub pages website before, you can follow this webpage (though, substitute your final project repository for the GitHub username one in the quickstart guide):  [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
 
-[Link to project website](https://github.com/upenn-embedded/final-project-website-submission-f25-t02-f25-schrodingers_firmware/settings/pages)
+[Link to project website](https://upenn-embedded.github.io/final-project-website-submission-f25-t02-f25-schrodingers_firmware/)
 
 ### 1. Video
 
